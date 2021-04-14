@@ -9,7 +9,7 @@
 @stop
 
 @section('content_header')
-    <center><h1>USUARIOS</h1></center>
+    <center><h1 style="background: grey">USUARIOS</h1></center>
 @stop
 
 @section('content')
